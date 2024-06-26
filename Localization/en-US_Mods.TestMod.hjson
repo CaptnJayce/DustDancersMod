@@ -1,0 +1,12 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	PoisonDust: {
+		DisplayName: Impure Poison Dust
+		Tooltip:
+			'''
+			You'd think injecting this is a bad idea...
+			Upon consumption use right click, left click, and [INSERT BUTTON] for your powers
+			'''
+	}
+}

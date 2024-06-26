@@ -1,0 +1,3 @@
+displayName = 1.4 Test Mod
+author = CaptnJayce
+version = 0.1
