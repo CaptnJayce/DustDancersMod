@@ -1,0 +1,23 @@
+Mods: {
+	DustDancers: {
+		Items: {
+			PoisonDust: {
+				DisplayName: Impure Poison Dust
+				Tooltip:
+					'''
+					You'd think injecting this is a bad idea...
+					Upon consumption, press left click, right click and [OTHER] for your attacks!
+					'''
+			}
+
+			LeatherDancerLegs: {
+				DisplayName: Leather Dancer Legs
+				Tooltip:
+					'''
+					Leather legs crafted for junior Dancers
+					That's you!
+					'''
+			}
+		}
+	}
+}

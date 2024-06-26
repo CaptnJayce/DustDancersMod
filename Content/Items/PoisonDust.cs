@@ -6,7 +6,7 @@ using Terraria.ModLoader;
 using Terraria.ModLoader.Config;
 using Terraria.Localization;
 
-namespace TestMod.Content.Items
+namespace DustDancers.Content.Items
 { 
 	public class PoisonDust : ModItem
 	{
@@ -25,7 +25,7 @@ namespace TestMod.Content.Items
             Item.rare = ItemRarityID.Blue;
 
             // Combat properties
-            Item.damage = 15; 
+            Item.damage = 1005; 
             Item.DamageType = DamageClass.Melee;
             Item.useTime = 20; 
             Item.useAnimation = 20; 
