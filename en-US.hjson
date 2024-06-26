@@ -10,12 +10,30 @@ Mods: {
 					'''
 			}
 
+			LeatherDancerHead: {
+				DisplayName: Leather Dancer Headpiece
+				Tooltip:
+					'''
+					A leather headpiece designed to fit all headsizes
+					Yes! Even yours! How impressive. 
+					'''
+			}
+
+			LeatherDancerChest: {
+				DisplayName: Leather Dancer Chestplate
+				Tooltip:
+					'''
+					Thick enough to stop the elements, not so much the elementals
+					There's gaps in the upper arms for injecting dust
+					'''
+			}
+
 			LeatherDancerLegs: {
 				DisplayName: Leather Dancer Legs
 				Tooltip:
 					'''
 					Leather legs crafted for junior Dancers
-					That's you!
+					They're suprisignly comfortable
 					'''
 			}
 		}
